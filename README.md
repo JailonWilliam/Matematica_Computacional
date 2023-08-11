@@ -1,1 +1,1 @@
-# Matematica_Computacional
+Este repositório contem exercícios da disciplina de Matemática Computacional, contendo modelagem de problemas e a implementação das soluções dos mesmos. Os desafios propostos envolvem a aplicação de conceitos matemáticos em situações práticas, sendo necessário traduzir problemas reais em modelos matemáticos e, posteriormente, implementar algoritmos que os resolvam.
